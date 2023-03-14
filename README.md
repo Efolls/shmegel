@@ -2,8 +2,10 @@
 shmegel
 
 # Jobs
-Shmegel -
-Jem - 
-Zoe - 
-Ethan - 
+Shmegel - Dictator
+Jem - Second In Command
+Zoe - Shmegel's Personal Assistant
+Ethan - Economic Minister
 # Econommy
+Currency: Shmeebucks
+Notes: 1 Shmeebuck, 4 Shmeebucks and 21 Shmeebucks
