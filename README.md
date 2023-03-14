@@ -5,4 +5,4 @@ shmegel
 
 
 # Build Settings
-remote_theme: architect
+theme: architect
