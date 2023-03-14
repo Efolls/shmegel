@@ -1,8 +1,9 @@
-# shmegel
+# Shmegel's Website
 shmegel
 
-
-
-
-# Build Settings
-theme: architect
+# Jobs
+Shmegel -
+Jem - 
+Zoe - 
+Ethan - 
+# Econommy
