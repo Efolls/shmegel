@@ -1,3 +1,3 @@
 # shmegel
 shmegel
-theme : Architect
+remote_theme: architect
