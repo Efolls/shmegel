@@ -12,7 +12,7 @@ Currency: Shmeebucks
 | Currency  | Minecraft Item |
 | ------------- | ------------- |
 | 1 Shmeebuck  | IMAGE  |
-| 4 Shmeebucks  | IMAGE  |
+| 4 Shmeebucks  | ![image](https://user-images.githubusercontent.com/127815831/225199005-760ea2b2-94a3-4845-b116-98addc3e0093.png)  |
 # World
 | Date  | Image |
 | ------------- | ------------- |
