@@ -9,6 +9,10 @@ Shmegel - Dictator
 # Econommy
 Currency: Shmeebucks
 <br /> Coins: 1 Shmeebuck, 4 Shmeebucks and 21 Shmeebucks
+| Currency  | Minecraft Item |
+| ------------- | ------------- |
+| 1 Shmeebuck  | IMAGE  |
+| 4 Shmeebucks  | IMAGE  |
 # World
 | Date  | Image |
 | ------------- | ------------- |
