@@ -10,3 +10,7 @@ Shmegel - Dictator
 Currency: Shmeebucks
 <br /> Coins: 1 Shmeebuck, 4 Shmeebucks and 21 Shmeebucks
 # World
+| Date  | Image |
+| ------------- | ------------- |
+| 15/03/2023  | IMAGE  |
+| 5/04/2023  | IMAGE  |
