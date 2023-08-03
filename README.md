@@ -6,6 +6,9 @@ Shmegel - Dictator
 <br /> Jem - Second In Command
 <br /> Zoe - Shmegel's Personal Assistant
 <br /> Ethan - Economic Minister
+<br /> coby - shmegels bodygaurd
+<br /> alex - blacksmith 
+<br /> speve baim - wanted criminal
 
 # Econommy
 
